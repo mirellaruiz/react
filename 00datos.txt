@@ -1,0 +1,9 @@
+Mirella Ruiz Muñoz
+María Ortega Pérez
+
+MEJORAS:
+Hemos usado los componentes de Bootstrap.
+
+Redux: 2 acciones y 2 reducers.
+
+API de CRM: HTTP PUT para poner y quitar la propiedad de favorita.

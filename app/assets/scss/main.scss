@@ -1,0 +1,25 @@
+$color: #262828;
+
+html, body, .container, .row , #root{
+  color: $color;
+  height: 100%;
+}
+#leftCol{
+  height: 100%;
+
+}
+
+#listaVisitas{
+  overflow: auto;
+  height: 100%;
+}
+
+h3, h2{
+  color: teal;
+}
+h4{
+  color: lightseagreen;
+}
+li {
+  list-style: none;
+}
